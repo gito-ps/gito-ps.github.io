@@ -1,1 +1,1 @@
-# gito.ps
+# gitops
